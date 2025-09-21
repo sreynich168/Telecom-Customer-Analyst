@@ -59,4 +59,4 @@ The dataset used is the **Telco Customer Churn Dataset**, containing:
 ---
 
 ## 📝 Author
-Created by **[Your Name]** as part of a Data Analytics project using Power BI.  
+Created by **[SREN SREYNICH]** as part of a Data Analytics project using Power BI.  
